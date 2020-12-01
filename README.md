@@ -1,4 +1,4 @@
-# December-2020-Coding
+# December-2020-Coding Challenge
 December 30 Days Coding Challenge.
 
 Will be doing 5 leetcode coding problems everyday for the rest of the month.
